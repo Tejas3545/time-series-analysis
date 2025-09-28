@@ -126,8 +126,8 @@ Time-Series-Analysis/
 ---
 
 ## 👥 Team & Credits
-- Project Lead: Vishal Deep
-- Contributors: Tejas Solanki, Sonu kumar
+- Project Lead: Tejas Solanki
+- Contributors: Tejas Solanki, Sonu Kumar
 - Special thanks: Open source libraries (Yahoo Finance, pandas, scikit-learn, TensorFlow, Streamlit, etc.)
 
 ---
