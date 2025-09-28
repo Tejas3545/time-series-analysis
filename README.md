@@ -127,7 +127,7 @@ Time-Series-Analysis/
 
 ## 👥 Team & Credits
 - Project Lead: Vishal Deep
-- Contributors: Vishal Deep, Vaibhav Sharma, Rishi, Keval Rathod, Shaion Sanyai
+- Contributors: Tejas Solanki, Sonu kumar
 - Special thanks: Open source libraries (Yahoo Finance, pandas, scikit-learn, TensorFlow, Streamlit, etc.)
 
 ---
@@ -135,7 +135,6 @@ Time-Series-Analysis/
 ## 📄 License
 MIT
 
----
 
 ## 📬 Contact
 For questions, issues, or collaboration, open an issue or contact [vishalyep1022@gmail.com]. 
